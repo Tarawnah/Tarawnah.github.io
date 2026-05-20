@@ -16,7 +16,7 @@ timezone: Asia/Amman
 
 title: Abdallah Tarawnah # the main title
 
-tagline: Cybersecurity Engineer | Technical Writeups | CTF Notes # it will display as the subtitle
+tagline: Cybersecurity Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A personal cybersecurity space for CTF writeups, machines, application security notes,

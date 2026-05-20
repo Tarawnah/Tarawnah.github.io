@@ -29,14 +29,14 @@ url: "https://tarawnah.github.io"
 github:
   username: Tarawnah # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+ # username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Abdallah Tarawnah
-  email: tarawnah@outlook.com # change to your email address
+  email: Email # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link

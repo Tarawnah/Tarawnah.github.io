@@ -10,13 +10,13 @@ I have a BSc in Networks and Information Security Engineering. I’m mainly inte
 
 I created this site as a personal space to document writeups, notes, labs, and technical things I learn along the way.
 
-## Hack The Box Profile 
+## Hack The Box Profile
 
-<p align="center">
-  <a href="https://profile.hackthebox.com/profile/019d23eb-e71e-7072-8631-aad480a7fddf" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.hackthebox.com/badge/image/1766851" alt="Hack The Box badge">
+<div style="text-align: center; margin: 1rem 0 2rem 0;">
+  <a href="https://profile.hackthebox.com/profile/019d23eb-e71e-7072-8631-aad480a7fddf" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://www.hackthebox.com/badge/image/1766851" alt="Hack The Box badge" style="display: inline-block; margin: 0 auto;">
   </a>
-</p>
+</div>
 
 ## Certifications
 

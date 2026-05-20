@@ -32,6 +32,9 @@ github:
 twitter:
   username: twitter_username # change to your Twitter username
 
+linkedin:
+  username: abdallah-tarawnah #Linkedin username
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -44,7 +47,7 @@ social:
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/abdallah-tarawnah
+    - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:

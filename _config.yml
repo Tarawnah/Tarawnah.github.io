@@ -19,8 +19,8 @@ title: Abdallah Tarawnah # the main title
 tagline: Cybersecurity Engineer | Technical Writeups | CTF Notes # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Personal cybersecurity portfolio and technical blog covering security engineering,
-  application security, CTF writeups, cloud security, and technical notes.
+  A personal cybersecurity space for CTF writeups, machines, application security notes,
+  offensive security labs, and technical experiments.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

@@ -12,9 +12,12 @@ I created this site as a personal space to document writeups, notes, labs, and t
 
 ## Hack The Box Profile
 
-<div style="text-align: center; margin: 1rem 0 2rem 0;">
-  <a class="htb-badge-link" href="https://profile.hackthebox.com/profile/019d23eb-e71e-7072-8631-aad480a7fddf" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.hackthebox.com/badge/image/1766851" alt="Hack The Box badge" style="max-width: 260px;">
+<div class="badge-center">
+  <a class="htb-badge-card"
+     href="https://profile.hackthebox.com/profile/019d23eb-e71e-7072-8631-aad480a7fddf"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Hack The Box profile">
   </a>
 </div>
 

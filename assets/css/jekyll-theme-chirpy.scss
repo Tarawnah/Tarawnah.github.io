@@ -5,10 +5,21 @@
 
 /* Custom overrides */
 
-.htb-badge-link {
-  display: inline-block;
+.badge-center {
+  text-align: center;
+  margin: 1rem 0 2rem 0;
 }
 
-.htb-badge-link::after {
+.htb-badge-card {
+  display: inline-block;
+  width: 260px;
+  height: 60px;
+  background-image: url("https://www.hackthebox.com/badge/image/1766851");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.htb-badge-card::after {
   display: none !important;
 }

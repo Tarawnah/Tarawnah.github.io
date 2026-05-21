@@ -20,12 +20,12 @@ I created this site as a personal space to document writeups, notes, labs, and t
     aria-label="View my Hack The Box profile"
     style="
       display: inline-block;
-      width: 240px;
-      height: 60px;
+      width: 230px;
+      height: 58px;
       background-image: url('https://www.hackthebox.com/badge/image/1766851');
       background-repeat: no-repeat;
       background-position: center;
-      background-size: 240px 60px;
+      background-size: 230px 58px;
       text-decoration: none !important;
       border-bottom: none !important;
       box-shadow: none !important;

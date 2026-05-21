@@ -1,0 +1,14 @@
+---
+---
+
+@use 'main';
+
+/* Custom overrides */
+
+.htb-badge-link {
+  display: inline-block;
+}
+
+.htb-badge-link::after {
+  display: none !important;
+}

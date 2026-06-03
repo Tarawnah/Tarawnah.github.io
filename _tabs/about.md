@@ -14,7 +14,7 @@ I created this site as a personal space to document writeups, notes, labs, and t
 
 <div style="text-align: center; margin: 1rem 0 2rem 0;">
   <a
-    href="https://profile.hackthebox.com/profile/019d23eb-e71e-7072-8631-aad480a7fddf"
+    href="https://app.hackthebox.com/public/users/1766851"
     target="_blank"
     rel="noopener noreferrer"
     aria-label="View my Hack The Box profile"
